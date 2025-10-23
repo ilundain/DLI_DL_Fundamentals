@@ -2,7 +2,8 @@
 
 This repository hosts Jupyter notebooks and datasets aligned with the NVIDIA Deep Learning Institute (DLI) “Fundamentals of Deep Learning” instructor-led workshop [1].
 
-- Visit the official workshop page for more information or take the free course: https://www.nvidia.com/en-gb/training/instructor-led-workshops/fundamentals-of-deep-learning/
+- Visit the official NVIDIA DLI page for more information or take the free course: 
+  https://www.nvidia.com/en-gb/training/instructor-led-workshops/fundamentals-of-deep-learning/
 
 ## Contents
 - `data/` — sample datasets used in the notebooks
@@ -17,8 +18,6 @@ Important `data/` directory notes!
    - Unzip: sign_mnist_valid.csv.zip and sign_mnist_valid.csv.zip
 - Files expected in `data/fruits/' used for the 07 final assesment is not included in this repo
   - Download from: https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification 
-
-/Users/jaime/Desktop/NVIDIA_DLI_DL_Funds/NVIDIA-DLI_DL_Fudamentals/data/asI_data/sign_mnist_valid.csv.zip
 
 ## Quick Start
 1. Clone the repo.
