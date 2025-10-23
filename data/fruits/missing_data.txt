@@ -1,0 +1,26 @@
+
+download dataset from
+https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification
+
+
+./data
+./data/fruits
+./data/fruits/train
+./data/fruits/train/rottenbanana
+./data/fruits/train/rottenoranges
+./data/fruits/train/freshbanana
+./data/fruits/train/freshoranges
+./data/fruits/train/freshapples
+./data/fruits/train/rottenapples
+./data/fruits/valid
+./data/fruits/valid/rottenbanana
+./data/fruits/valid/rottenoranges
+./data/fruits/valid/freshbanana
+./data/fruits/valid/freshoranges
+./data/fruits/valid/freshapples
+./data/fruits/valid/rottenapples
+./Test
+./Test/.ipynb_checkpoints
+./Test/.ipynb_checkpoints/04a_asl_augmentation-checkpoint.ipynb
+./Test/04a_asl_augmentation.ipynb
+./04a_asl_augmentation.ipynb
